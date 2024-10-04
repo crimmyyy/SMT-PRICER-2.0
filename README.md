@@ -4,6 +4,8 @@ The new and improved version of the SuperMarket Together Pricer. Has an interact
 
 Uses PILLOW, Treeview and Tkinter for the GUI.
 
+For data storage, import JSON is used for this program.
+
 Open source. Please credit me if you use wish to improve on this repository.
 
 © crimmyyy 2024
